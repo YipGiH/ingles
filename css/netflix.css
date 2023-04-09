@@ -1,0 +1,16 @@
+*{
+    color:rgb(252, 0, 0);
+    
+}
+div{
+    margin-top: 80%;
+}
+body{
+    background-image:url(../images/netflx.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    font-size: 'Bebas Neue', cursive;
+}
