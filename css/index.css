@@ -24,6 +24,7 @@ nav{
     list-style: none;
     display: flex;
     justify-content: flex-end;
+    margin-right: 15%;
 }
  
 .h> li >a {

@@ -1,9 +1,9 @@
 *{
-    color:rgb(252, 0, 0);
+    color:rgb(214, 3, 3);
     
 }
 div{
-    margin-top: 80%;
+    margin-top: 0%;
 }
 body{
     background-image:url(../images/netflx.jpg);
@@ -13,4 +13,6 @@ body{
 
 h1{
     font-size: 'Bebas Neue', cursive;
+    margin-top: 36%;
+    margin-left: 41%;
 }

@@ -42,11 +42,14 @@ body {
         float: left;
         margin-top: 80px;
         margin-left: 80px;
+        font-size: 1.5em;
         /* Para agregar la sombra solida se le agregan solo dos valores de pixel */
-           color: black;
+           color: aliceblue;
         box-shadow: 35px 15px; 
         border-radius: 8px;
         text-align: center;
+        margin-right: 20px;
+        
 }
 
 .caja3 {
@@ -55,12 +58,14 @@ body {
     height: 300px;
     width: 300px;
     background-color: #07a5e4;
-    color:#81ffd8;
-  
+    color:aliceblue;
+    font-size: 1.5em;
     margin-top: 80px;
+    margin-right: 0px;
     margin-left: 80px;
     font-size: 1.7em;
     float:left
+
 
 }
 
@@ -72,6 +77,7 @@ body {
 .caja3 label{
     text-align: center;
     margin-top: 10px;
+    margin-left: 20px;
 }
 
 .caja4 {
@@ -83,7 +89,7 @@ body {
     background: -webkit-linear-gradient(to right, #eaafc8, #654ea3);  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, #eaafc8, #654ea3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     color: #e2e2e2;
-    margin-top: 30px;
+    margin-top: 80px;
     margin-left:150px;
     font-size: 1.7em;
     float:left
